@@ -4,15 +4,23 @@
 
 The source code of the [Ruby on Rails ガイド](https://railsguides.jp)
 
-## README
+## Requirements
+
+- Ruby version
+  3.1.2
+
+## Setup
+
+```shell
+bundle install
+```
+
+## memo
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
-
-- Ruby version
-  3.1.2
 
 - System dependencies
 
