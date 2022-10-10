@@ -9,11 +9,24 @@ The source code of the [Ruby on Rails ガイド](https://railsguides.jp)
 - Ruby version
   3.1.2
 
+- SQLite3
+
 ## Setup
+
+Install gem dependencies and just launch the application.
 
 ```shell
 bundle install
+bin/rails server
 ```
+
+### Migration
+
+```shell
+bin/rails db:migrate
+```
+
+### 
 
 ## memo
 
